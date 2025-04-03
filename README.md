@@ -1,12 +1,10 @@
 # Simple Web-Based Digital Clock
 
-This is a project I thought of because any digital clocks I looked at online just had too much garbage on them, so I thought of this sleek digital clock design. It might seem simple, but deeper down, there are many aspects of this clock that make it so unique.
+This started out as a small project I made for myself but after getting tired of the original [Digital Clock](https://www.github.com/ClassicGithub-er), I decided to do a re-do and it turned out pretty nice.
 
 ## Features:
 
-- In the top right corner, there is a cog wheel which can be pressed to open an array of different buttons to customize the clock (like 24-hour or 12-hour, and choosing the theme color).
-- When pressing “D”, the “date” section will change from long format (Friday, October 11, 2022) to dd/mm/yy (11/10/22) and vice versa.
-- When pressing “S”, a schedule will appear at the top of the screen (configurable in script.js) and will disappear when pressing “S” once more.
+Currently, there are no features, but I might add some soon so it really is the 2.0 of the original Digital Clock project.
 
 ## Tutorial:
 
@@ -18,8 +16,7 @@ After downloading the zip file, unzip it by right clicking the file, then select
 
 ## Screenshots:
 
-![Exaple](https://github.com/ClassicGithub-er/Digital_Clock/blob/main/Images/Example.png)
-![Exaple0](https://github.com/ClassicGithub-er/Digital_Clock/blob/main/Images/Example0.png)
+![Example](https://github.com/ClassicGithub-er/Digital_Clock_2.0/blob/main/Images/Example-01.png)
 
 ## Credits:
 
