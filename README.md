@@ -10,9 +10,9 @@ Currently, there are no features, but I might add some soon so it really is the 
 
 First, download the code in this repository by pressing the green button that says "<> Code" at the top of the screen. After pressing the green button, click "Download Zip".
 
-![Tutorial](https://github.com/ClassicGithub-er/Digital_Clock/blob/main/Images/Tutorial.png)
+![Tutorial](https://github.com/ClassicGithub-er/Digital_Clock_2.0/blob/main/Images/Tutorial.png)
 
-After downloading the zip file, unzip it by right clicking the file, then selecting "Extract All...". Open the folder that has been extracted from the zip file and delete "README.md" and "Images". Open "Digital Clock", then open "index.html".
+After downloading the zip file, unzip it by right clicking the file, then selecting "Extract All...". Open the folder that has been extracted from the zip file and delete "README.md" and "Images". Open "Modern Digital Clock", then open "index.html".
 
 ## Screenshots:
 
