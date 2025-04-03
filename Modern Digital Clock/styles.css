@@ -1,0 +1,49 @@
+/* Reset default margins and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Set the body to have a gradient background with an overlay */
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to right, #6a11cb, #2575fc);  /* Gradient from purple to blue */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+}
+
+/* Clock container with slight overlay */
+.clock-container {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
+}
+
+/* Time and date styles */
+.time {
+    font-size: 60px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.date {
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: normal;
+}
+
+/* Responsive design */
+@media screen and (max-width: 600px) {
+    .time {
+        font-size: 40px;
+    }
+    .date {
+        font-size: 16px;
+    }
+}
